@@ -1,2 +1,3 @@
 # myrep
-:) my test repo
+:) my test rep
+added a new line
